@@ -1,0 +1,501 @@
+user_id,age,subscription_plan,listening_hours_per_week,monthly_logins,favorite_genre,device,country,tenure_months,churn_status
+U001,18,Basic,5.4,18,Rock,Mobile,India,60,Retained
+U002,35,Free,2.0,20,Rock,Mobile,India,56,Churned
+U003,22,Premium,5.3,13,Indie,Mobile,USA,19,Retained
+U004,45,Free,15.6,21,Bollywood,Mobile,Australia,33,Retained
+U005,18,Free,8.6,15,Classical,Laptop,India,17,Retained
+U006,24,Free,1.7,17,Pop,Mobile,India,51,Retained
+U007,24,Premium,2.1,20,Electronic,Laptop,Canada,19,Retained
+U008,52,Free,4.3,12,Pop,Mobile,India,3,Churned
+U009,46,Premium,7.2,22,Pop,Mobile,India,16,Retained
+U010,34,Free,19.9,11,Bollywood,Mobile,Canada,3,Churned
+U011,47,Free,12.7,13,Classical,Mobile,USA,1,Churned
+U012,24,Basic,14.7,16,Rock,Mobile,Australia,25,Retained
+U013,40,Free,4.8,16,Indie,Mobile,UK,8,Churned
+U014,49,Basic,13.7,22,Classical,Laptop,Canada,56,Retained
+U015,45,Premium,12.0,14,Rock,Tablet,India,53,Retained
+U016,46,Basic,10.0,15,Electronic,Mobile,India,55,Retained
+U017,57,Free,18.4,16,Classical,Tablet,UK,27,Churned
+U018,58,Free,18.1,18,Pop,Mobile,UK,33,Retained
+U019,33,Basic,8.3,25,Indie,Tablet,India,22,Retained
+U020,48,Premium,2.7,24,Hip-Hop,Laptop,India,24,Churned
+U021,20,Basic,5.9,14,Classical,Tablet,Australia,12,Retained
+U022,36,Free,17.2,21,R&B,Mobile,Canada,8,Retained
+U023,36,Basic,6.7,18,Electronic,Mobile,USA,19,Churned
+U024,60,Premium,13.2,26,Pop,Smart Speaker,UK,23,Retained
+U025,39,Basic,9.5,17,Hip-Hop,Laptop,Australia,39,Retained
+U026,43,Basic,15.5,17,R&B,Mobile,Australia,42,Retained
+U027,46,Free,45.0,11,Pop,Smart Speaker,India,41,Retained
+U028,52,Free,9.5,9,Indie,Tablet,UK,19,Retained
+U029,45,Free,2.7,23,Hip-Hop,Mobile,Canada,22,Retained
+U030,52,Premium,5.7,14,Electronic,Smart Speaker,UK,29,Retained
+U031,60,Basic,3.2,16,Pop,Mobile,USA,32,Retained
+U032,46,Premium,7.3,19,Pop,Tablet,UK,31,Retained
+U033,39,Premium,20.6,19,Rock,Mobile,USA,13,Retained
+U034,24,Free,8.2,18,Electronic,Mobile,India,38,Retained
+U035,34,Free,6.7,22,Electronic,Mobile,USA,20,Churned
+U036,55,Basic,17.9,22,Indie,Mobile,Canada,28,Churned
+U037,31,Premium,6.7,24,Electronic,Tablet,India,8,Retained
+U038,40,Free,11.6,12,Classical,Mobile,India,53,Retained
+U039,46,Premium,5.3,22,Rock,Mobile,USA,57,Retained
+U040,30,Free,3.3,18,Pop,Laptop,India,54,Retained
+U041,39,Basic,5.4,12,Classical,Mobile,India,28,Churned
+U042,44,Premium,15.3,12,Bollywood,Mobile,Canada,54,Retained
+U043,40,Free,12.6,14,Classical,Laptop,India,41,Retained
+U044,20,Free,17.4,25,Bollywood,Mobile,India,59,Retained
+U045,39,Free,4.2,25,Electronic,Mobile,Australia,58,Retained
+U046,54,Premium,14.9,18,Indie,Mobile,UK,47,Retained
+U047,25,Free,10.6,23,R&B,Mobile,India,29,Churned
+U048,53,Premium,23.9,19,R&B,Mobile,USA,55,Churned
+U049,18,Premium,5.3,13,R&B,Mobile,USA,43,Retained
+U050,21,Premium,1.8,13,Classical,Mobile,USA,59,Retained
+U051,21,Premium,18.4,18,Indie,Mobile,India,41,Churned
+U052,46,Free,2.3,17,Rock,Tablet,Canada,26,Churned
+U053,33,Basic,18.8,20,Hip-Hop,Mobile,UK,19,Retained
+U054,50,Free,11.1,13,Indie,Mobile,India,41,Churned
+U055,20,Free,6.5,14,Classical,Mobile,India,13,Churned
+U056,56,Free,6.3,12,R&B,Mobile,USA,27,Retained
+U057,32,Free,3.2,18,Indie,Mobile,USA,45,Churned
+U058,37,Basic,13.1,17,R&B,Mobile,India,1,Retained
+U059,43,Basic,22.1,19,Electronic,Mobile,India,21,Retained
+U060,46,Premium,36.0,24,Hip-Hop,Mobile,Australia,14,Retained
+U061,19,Basic,16.9,16,Electronic,Mobile,India,27,Churned
+U062,41,Free,11.1,12,Classical,Mobile,India,42,Retained
+U063,20,Premium,3.1,19,Indie,Mobile,UK,18,Churned
+U064,19,Free,27.2,21,Electronic,Tablet,India,51,Retained
+U065,28,Basic,3.2,11,Electronic,Laptop,USA,57,Retained
+U066,21,Basic,8.2,15,Hip-Hop,Mobile,UK,38,Retained
+U067,30,Free,8.4,15,Rock,Smart Speaker,USA,9,Retained
+U068,39,Premium,2.2,13,R&B,Mobile,UK,43,Churned
+U069,50,Basic,2.8,30,Electronic,Mobile,India,25,Retained
+U070,22,Free,13.6,21,Electronic,Mobile,India,10,Retained
+U071,33,Basic,16.2,17,Classical,Mobile,India,21,Retained
+U072,53,Premium,9.6,14,Classical,Mobile,India,13,Retained
+U073,32,Basic,33.1,14,Rock,Mobile,India,13,Retained
+U074,34,Basic,16.8,13,R&B,Laptop,Australia,13,Retained
+U075,53,Free,14.1,10,Classical,Mobile,Canada,25,Retained
+U076,50,Basic,9.7,15,Indie,Laptop,USA,6,Churned
+U077,57,Basic,28.1,19,Pop,Smart Speaker,Australia,33,Retained
+U078,22,Free,9.1,19,Rock,Smart Speaker,Canada,22,Churned
+U079,50,Basic,6.2,19,Electronic,Laptop,USA,27,Retained
+U080,35,Basic,23.7,21,Rock,Mobile,Canada,57,Retained
+U081,46,Basic,21.0,20,Bollywood,Smart Speaker,USA,27,Retained
+U082,34,Free,9.5,25,Pop,Mobile,Canada,5,Retained
+U083,55,Free,17.3,18,Rock,Smart Speaker,India,51,Retained
+U084,55,Free,17.9,24,Rock,Smart Speaker,India,5,Churned
+U085,44,Free,15.0,13,Rock,Mobile,India,34,Churned
+U086,44,Basic,7.2,17,Pop,Tablet,India,13,Retained
+U087,27,Basic,1.5,21,Electronic,Mobile,India,57,Retained
+U088,27,Free,17.6,17,Indie,Mobile,India,41,Churned
+U089,47,Basic,33.0,17,Electronic,Mobile,India,58,Churned
+U090,28,Free,29.9,17,R&B,Smart Speaker,USA,39,Retained
+U091,42,Free,8.9,16,Hip-Hop,Mobile,USA,25,Retained
+U092,60,Basic,13.3,16,Classical,Mobile,India,20,Retained
+U093,58,Premium,4.3,25,R&B,Mobile,India,42,Churned
+U094,23,Basic,23.3,11,Bollywood,Mobile,India,48,Churned
+U095,40,Basic,27.1,13,Classical,Mobile,USA,31,Retained
+U096,24,Premium,4.2,16,Pop,Mobile,USA,55,Retained
+U097,34,Premium,12.7,15,Pop,Mobile,India,47,Retained
+U098,18,Free,7.1,12,Hip-Hop,Smart Speaker,UK,36,Churned
+U099,30,Premium,16.1,19,Hip-Hop,Laptop,Canada,17,Churned
+U100,53,Free,7.0,21,Hip-Hop,Mobile,USA,1,Retained
+U101,39,Premium,7.0,28,Rock,Mobile,UK,40,Churned
+U102,35,Free,10.0,21,R&B,Mobile,India,59,Retained
+U103,56,Basic,5.4,20,Indie,Mobile,India,29,Churned
+U104,44,Free,19.5,22,R&B,Laptop,India,41,Churned
+U105,52,Free,4.1,16,Hip-Hop,Mobile,Canada,24,Retained
+U106,25,Basic,20.4,13,Hip-Hop,Mobile,India,19,Churned
+U107,39,Free,10.8,20,R&B,Laptop,Canada,14,Retained
+U108,58,Free,14.0,17,Classical,Smart Speaker,Canada,46,Retained
+U109,35,Basic,14.0,20,Indie,Laptop,India,54,Retained
+U110,18,Basic,1.0,23,Rock,Tablet,USA,32,Retained
+U111,18,Premium,5.5,13,Bollywood,Laptop,India,9,Churned
+U112,20,Premium,29.1,19,Bollywood,Tablet,USA,14,Churned
+U113,51,Premium,14.8,18,Classical,Mobile,India,46,Retained
+U114,46,Premium,4.1,19,Indie,Mobile,Canada,44,Retained
+U115,50,Free,20.7,26,Electronic,Mobile,India,45,Churned
+U116,54,Basic,18.2,24,Rock,Mobile,Canada,29,Retained
+U117,46,Free,16.7,25,Indie,Smart Speaker,India,34,Retained
+U118,22,Premium,14.3,19,Pop,Tablet,India,10,Retained
+U119,22,Basic,33.9,22,Classical,Smart Speaker,India,42,Retained
+U120,34,Free,11.2,14,Rock,Mobile,India,16,Retained
+U121,53,Premium,15.6,17,Hip-Hop,Smart Speaker,India,1,Retained
+U122,46,Free,9.1,13,R&B,Laptop,USA,36,Retained
+U123,26,Free,15.0,24,Electronic,Laptop,USA,52,Retained
+U124,23,Premium,16.5,21,Classical,Tablet,Canada,55,Retained
+U125,59,Premium,6.8,8,Indie,Mobile,USA,16,Churned
+U126,37,Free,11.8,18,Hip-Hop,Mobile,Canada,13,Retained
+U127,18,Premium,11.9,21,Hip-Hop,Mobile,UK,13,Churned
+U128,29,Premium,18.2,24,R&B,Mobile,Australia,41,Retained
+U129,19,Basic,10.3,17,Electronic,Laptop,Canada,15,Retained
+U130,40,Free,25.9,20,Pop,Mobile,India,55,Retained
+U131,42,Basic,16.5,16,Hip-Hop,Mobile,India,13,Retained
+U132,21,Free,9.5,11,Electronic,Mobile,India,50,Retained
+U133,20,Free,12.0,13,Hip-Hop,Smart Speaker,India,42,Retained
+U134,38,Basic,4.2,21,Rock,Smart Speaker,Canada,20,Retained
+U135,40,Premium,9.8,11,Electronic,Laptop,USA,18,Churned
+U136,57,Free,25.1,15,Indie,Laptop,USA,23,Retained
+U137,60,Free,11.2,15,Pop,Mobile,India,51,Churned
+U138,18,Free,37.6,19,Indie,Laptop,India,52,Retained
+U139,41,Basic,10.2,17,Classical,Laptop,India,30,Churned
+U140,58,Basic,1.9,10,Pop,Mobile,USA,15,Retained
+U141,46,Free,15.6,19,Indie,Mobile,India,36,Churned
+U142,37,Premium,10.8,16,Rock,Smart Speaker,India,17,Churned
+U143,40,Basic,21.6,13,Bollywood,Mobile,USA,12,Retained
+U144,43,Free,8.2,22,Rock,Mobile,USA,17,Churned
+U145,29,Free,11.1,25,Indie,Mobile,USA,59,Churned
+U146,48,Free,6.8,18,Bollywood,Laptop,USA,26,Retained
+U147,30,Premium,23.1,23,Classical,Mobile,India,59,Retained
+U148,20,Premium,19.9,15,Pop,Mobile,India,31,Retained
+U149,45,Basic,26.7,10,Hip-Hop,Mobile,USA,49,Retained
+U150,32,Premium,2.8,14,Electronic,Mobile,India,48,Retained
+U151,58,Free,6.8,30,Classical,Tablet,India,34,Retained
+U152,47,Free,5.2,28,R&B,Mobile,Australia,46,Retained
+U153,48,Free,12.5,17,Bollywood,Mobile,USA,49,Retained
+U154,60,Basic,4.9,21,Rock,Mobile,UK,59,Retained
+U155,18,Premium,17.8,24,R&B,Mobile,USA,7,Retained
+U156,22,Free,13.6,22,Rock,Mobile,USA,53,Churned
+U157,34,Free,7.0,24,Electronic,Mobile,Australia,13,Retained
+U158,19,Basic,5.4,23,Hip-Hop,Tablet,Canada,53,Retained
+U159,48,Premium,14.3,22,Indie,Smart Speaker,India,14,Churned
+U160,27,Basic,1.9,15,Rock,Laptop,Canada,46,Churned
+U161,43,Basic,9.8,15,Hip-Hop,Mobile,Australia,20,Retained
+U162,29,Free,23.2,17,Electronic,Mobile,USA,29,Retained
+U163,22,Free,36.1,14,Bollywood,Mobile,India,4,Churned
+U164,56,Basic,12.3,16,Pop,Mobile,UK,14,Retained
+U165,34,Premium,2.7,12,Classical,Mobile,India,51,Retained
+U166,47,Basic,12.2,18,Bollywood,Smart Speaker,Canada,21,Retained
+U167,33,Basic,1.4,17,Indie,Mobile,India,59,Retained
+U168,37,Premium,16.0,17,R&B,Laptop,Canada,8,Churned
+U169,51,Basic,17.9,22,Classical,Mobile,India,53,Churned
+U170,38,Premium,21.5,11,Hip-Hop,Smart Speaker,India,30,Retained
+U171,26,Free,2.7,17,Indie,Mobile,USA,24,Retained
+U172,50,Basic,12.2,16,Classical,Mobile,UK,10,Retained
+U173,21,Free,4.3,22,Classical,Mobile,USA,3,Churned
+U174,38,Basic,18.1,19,Classical,Mobile,Canada,56,Retained
+U175,47,Premium,2.1,24,Indie,Mobile,India,48,Retained
+U176,23,Free,7.9,19,Classical,Smart Speaker,India,20,Retained
+U177,42,Free,7.1,27,Hip-Hop,Tablet,USA,48,Retained
+U178,57,Free,0.9,11,Indie,Mobile,India,9,Churned
+U179,34,Free,18.1,16,Rock,Mobile,India,58,Retained
+U180,59,Premium,7.2,17,R&B,Mobile,India,39,Retained
+U181,36,Free,13.8,14,Electronic,Mobile,Canada,2,Churned
+U182,24,Free,28.0,22,Bollywood,Mobile,USA,18,Retained
+U183,43,Free,3.3,26,Classical,Laptop,India,25,Retained
+U184,19,Premium,13.4,23,R&B,Mobile,India,3,Churned
+U185,43,Basic,2.0,14,Bollywood,Mobile,Australia,48,Retained
+U186,53,Free,8.5,13,Rock,Mobile,India,57,Churned
+U187,45,Basic,15.8,15,Electronic,Tablet,USA,27,Churned
+U188,21,Free,7.4,17,Classical,Mobile,Canada,34,Churned
+U189,37,Free,35.8,15,Electronic,Mobile,India,49,Retained
+U190,27,Premium,6.0,15,Classical,Mobile,India,56,Retained
+U191,33,Premium,12.0,16,Hip-Hop,Laptop,Canada,34,Retained
+U192,46,Premium,3.2,17,Hip-Hop,Smart Speaker,Canada,20,Churned
+U193,25,Basic,20.8,17,Rock,Smart Speaker,Canada,34,Retained
+U194,29,Basic,10.7,19,Rock,Mobile,India,33,Churned
+U195,51,Basic,20.9,15,Electronic,Mobile,India,27,Retained
+U196,33,Basic,17.5,10,R&B,Smart Speaker,India,46,Retained
+U197,20,Free,5.7,25,Rock,Tablet,USA,50,Churned
+U198,30,Premium,8.4,16,Indie,Smart Speaker,UK,47,Churned
+U199,54,Basic,28.5,18,Indie,Mobile,India,35,Retained
+U200,21,Premium,23.7,23,Classical,Smart Speaker,India,43,Retained
+U201,43,Premium,8.9,16,Classical,Mobile,India,26,Retained
+U202,44,Basic,21.3,25,Pop,Laptop,India,27,Churned
+U203,55,Free,6.4,17,Bollywood,Tablet,India,29,Retained
+U204,55,Premium,14.8,20,Rock,Mobile,USA,59,Retained
+U205,60,Free,0.9,23,R&B,Laptop,India,59,Retained
+U206,36,Free,14.5,13,R&B,Tablet,India,4,Retained
+U207,22,Free,10.3,16,Rock,Smart Speaker,India,19,Retained
+U208,37,Basic,20.6,16,Indie,Mobile,India,59,Retained
+U209,46,Premium,19.9,18,Pop,Mobile,India,11,Retained
+U210,45,Free,4.6,13,Indie,Mobile,USA,45,Retained
+U211,46,Free,22.4,22,R&B,Mobile,USA,37,Churned
+U212,53,Premium,13.6,16,Rock,Mobile,UK,24,Retained
+U213,40,Basic,13.0,17,Rock,Tablet,India,48,Retained
+U214,34,Basic,18.7,17,Rock,Laptop,India,20,Retained
+U215,42,Free,22.6,12,Pop,Mobile,USA,9,Retained
+U216,32,Free,15.5,13,Indie,Laptop,UK,15,Churned
+U217,51,Premium,11.6,11,Rock,Mobile,India,56,Churned
+U218,40,Free,6.7,22,Rock,Mobile,India,48,Churned
+U219,53,Premium,2.0,17,Hip-Hop,Mobile,India,16,Retained
+U220,28,Free,26.1,13,Hip-Hop,Mobile,India,25,Retained
+U221,28,Basic,4.4,21,Hip-Hop,Laptop,USA,52,Retained
+U222,49,Basic,37.7,9,Hip-Hop,Mobile,USA,58,Churned
+U223,51,Basic,7.6,17,Classical,Laptop,UK,24,Churned
+U224,49,Basic,18.7,21,Hip-Hop,Mobile,Canada,19,Churned
+U225,55,Premium,5.3,11,Hip-Hop,Mobile,India,48,Retained
+U226,27,Premium,0.5,19,Bollywood,Mobile,Australia,34,Churned
+U227,45,Basic,4.6,16,Indie,Mobile,Australia,31,Retained
+U228,58,Free,27.5,17,Electronic,Tablet,Australia,26,Retained
+U229,52,Free,15.8,13,Indie,Smart Speaker,Australia,2,Retained
+U230,30,Basic,8.9,20,Electronic,Mobile,India,24,Churned
+U231,48,Basic,32.8,20,Indie,Laptop,UK,48,Retained
+U232,58,Premium,4.4,21,Bollywood,Smart Speaker,USA,21,Churned
+U233,46,Free,5.9,18,Electronic,Mobile,UK,14,Retained
+U234,29,Basic,7.2,15,Hip-Hop,Mobile,UK,23,Retained
+U235,46,Free,9.1,12,R&B,Smart Speaker,UK,35,Churned
+U236,26,Free,15.0,19,Indie,Mobile,India,48,Retained
+U237,34,Free,16.2,14,Bollywood,Mobile,India,51,Churned
+U238,47,Free,15.2,15,R&B,Tablet,India,22,Churned
+U239,49,Basic,5.4,15,R&B,Mobile,Australia,21,Retained
+U240,47,Free,38.6,19,Bollywood,Mobile,India,60,Churned
+U241,59,Free,5.7,12,Classical,Mobile,India,56,Churned
+U242,50,Free,7.0,11,Hip-Hop,Mobile,Canada,52,Retained
+U243,33,Premium,15.1,16,Electronic,Mobile,India,20,Retained
+U244,46,Free,19.2,19,R&B,Mobile,USA,22,Retained
+U245,53,Free,6.3,23,Rock,Mobile,USA,21,Retained
+U246,49,Basic,6.7,20,Classical,Mobile,India,46,Churned
+U247,31,Basic,13.2,17,Hip-Hop,Laptop,UK,3,Retained
+U248,36,Premium,12.0,10,Classical,Laptop,India,7,Retained
+U249,55,Basic,4.3,27,Classical,Mobile,USA,34,Retained
+U250,35,Free,16.8,19,Classical,Laptop,Australia,15,Churned
+U251,32,Free,4.9,13,Hip-Hop,Mobile,USA,18,Churned
+U252,27,Premium,3.6,23,Bollywood,Smart Speaker,India,58,Retained
+U253,22,Basic,10.2,23,Indie,Smart Speaker,India,56,Retained
+U254,23,Free,7.8,16,Bollywood,Tablet,Australia,32,Retained
+U255,46,Free,16.5,18,Classical,Mobile,USA,33,Retained
+U256,26,Free,14.8,16,Classical,Laptop,USA,20,Retained
+U257,50,Free,9.2,17,Rock,Mobile,Canada,13,Retained
+U258,60,Free,4.9,23,Pop,Tablet,India,31,Churned
+U259,34,Basic,6.3,15,Pop,Smart Speaker,India,21,Churned
+U260,26,Premium,36.8,20,Hip-Hop,Laptop,Australia,23,Retained
+U261,25,Basic,10.6,15,Bollywood,Laptop,USA,44,Retained
+U262,34,Basic,3.7,14,Pop,Mobile,Canada,25,Churned
+U263,35,Basic,5.4,15,Hip-Hop,Mobile,UK,20,Churned
+U264,50,Premium,8.7,17,Bollywood,Mobile,USA,19,Retained
+U265,48,Basic,3.0,18,R&B,Mobile,USA,48,Churned
+U266,50,Basic,11.7,13,Electronic,Laptop,Canada,54,Retained
+U267,31,Free,27.9,12,Rock,Laptop,USA,24,Retained
+U268,25,Premium,9.1,14,Indie,Smart Speaker,India,17,Retained
+U269,21,Basic,4.3,14,R&B,Mobile,USA,60,Churned
+U270,56,Free,35.1,27,Electronic,Laptop,India,40,Churned
+U271,48,Premium,7.8,12,Hip-Hop,Mobile,USA,13,Retained
+U272,36,Free,11.6,15,Indie,Mobile,India,27,Churned
+U273,41,Basic,5.5,15,Indie,Laptop,India,34,Retained
+U274,38,Basic,7.9,18,Classical,Laptop,India,7,Retained
+U275,57,Free,15.4,24,R&B,Mobile,India,16,Retained
+U276,23,Basic,12.2,17,Classical,Mobile,USA,4,Churned
+U277,51,Free,6.8,22,Indie,Mobile,India,21,Retained
+U278,19,Basic,10.6,10,Pop,Tablet,Canada,29,Churned
+U279,22,Free,15.9,14,Classical,Tablet,India,12,Retained
+U280,56,Premium,16.7,22,R&B,Laptop,India,32,Retained
+U281,47,Premium,20.6,22,Rock,Mobile,Canada,56,Retained
+U282,41,Free,15.3,22,R&B,Mobile,India,49,Retained
+U283,23,Basic,7.8,19,Pop,Tablet,USA,29,Retained
+U284,55,Basic,12.8,15,Pop,Mobile,Canada,53,Retained
+U285,23,Premium,10.0,19,Electronic,Mobile,USA,5,Retained
+U286,34,Free,29.2,22,Indie,Mobile,India,39,Churned
+U287,43,Premium,14.1,18,Bollywood,Mobile,UK,45,Retained
+U288,33,Free,9.9,19,Pop,Mobile,India,56,Churned
+U289,57,Basic,9.5,20,R&B,Smart Speaker,India,25,Retained
+U290,26,Free,3.8,20,Electronic,Mobile,Canada,39,Churned
+U291,22,Free,9.7,26,Bollywood,Mobile,India,55,Retained
+U292,24,Premium,16.8,20,Hip-Hop,Mobile,USA,50,Retained
+U293,48,Premium,11.3,20,Hip-Hop,Smart Speaker,India,14,Retained
+U294,43,Basic,10.9,20,Pop,Mobile,UK,41,Retained
+U295,59,Premium,17.5,20,Indie,Mobile,USA,46,Retained
+U296,32,Free,8.8,21,Pop,Laptop,India,26,Retained
+U297,30,Free,4.5,20,Hip-Hop,Mobile,India,4,Churned
+U298,59,Free,21.9,21,Hip-Hop,Tablet,USA,45,Retained
+U299,20,Basic,5.4,22,Bollywood,Mobile,India,36,Churned
+U300,46,Basic,16.1,14,Pop,Mobile,UK,5,Churned
+U301,18,Free,8.2,15,Bollywood,Mobile,India,30,Churned
+U302,30,Premium,2.7,16,Rock,Mobile,USA,14,Retained
+U303,42,Premium,14.7,12,Pop,Mobile,India,59,Churned
+U304,60,Free,9.0,20,Bollywood,Mobile,Canada,2,Churned
+U305,60,Basic,2.6,16,Bollywood,Mobile,USA,38,Churned
+U306,37,Premium,6.3,19,Rock,Mobile,USA,31,Retained
+U307,20,Premium,9.3,14,Classical,Mobile,Australia,32,Retained
+U308,60,Premium,5.2,16,Electronic,Mobile,UK,25,Retained
+U309,31,Basic,7.0,18,Bollywood,Mobile,UK,20,Retained
+U310,37,Basic,37.8,11,Hip-Hop,Mobile,USA,59,Retained
+U311,30,Basic,16.5,11,Hip-Hop,Mobile,India,39,Retained
+U312,55,Free,16.8,20,Indie,Mobile,India,30,Retained
+U313,43,Free,9.6,17,Rock,Mobile,India,55,Retained
+U314,42,Premium,19.4,14,R&B,Smart Speaker,India,52,Churned
+U315,31,Premium,13.3,16,Rock,Mobile,India,55,Retained
+U316,40,Premium,7.4,17,Classical,Laptop,USA,8,Retained
+U317,47,Premium,1.1,22,Pop,Mobile,Australia,51,Churned
+U318,32,Basic,23.7,22,Pop,Mobile,USA,57,Retained
+U319,45,Premium,5.7,16,Hip-Hop,Mobile,USA,44,Churned
+U320,31,Free,8.5,13,Classical,Mobile,India,60,Retained
+U321,25,Free,11.2,17,R&B,Smart Speaker,Canada,45,Retained
+U322,25,Basic,15.5,24,Hip-Hop,Mobile,UK,17,Retained
+U323,43,Free,9.1,15,Indie,Tablet,India,2,Churned
+U324,58,Basic,14.8,20,Hip-Hop,Mobile,USA,19,Retained
+U325,41,Free,10.5,15,Indie,Mobile,India,60,Retained
+U326,22,Premium,7.6,17,Indie,Mobile,India,7,Churned
+U327,44,Free,11.7,21,Bollywood,Smart Speaker,Australia,32,Retained
+U328,41,Premium,5.0,14,Bollywood,Mobile,UK,44,Churned
+U329,25,Basic,23.6,24,Indie,Tablet,Australia,48,Retained
+U330,36,Premium,13.3,18,Pop,Mobile,India,59,Retained
+U331,26,Free,15.3,20,Rock,Mobile,India,2,Retained
+U332,49,Premium,8.5,21,Rock,Mobile,India,21,Retained
+U333,31,Free,9.9,13,Bollywood,Mobile,Canada,30,Churned
+U334,24,Premium,4.3,13,Hip-Hop,Mobile,India,59,Retained
+U335,32,Basic,12.4,20,R&B,Mobile,India,9,Retained
+U336,37,Free,7.2,17,Indie,Mobile,UK,32,Churned
+U337,34,Premium,1.9,19,Pop,Smart Speaker,India,39,Churned
+U338,49,Basic,9.0,14,Bollywood,Laptop,India,25,Retained
+U339,50,Free,13.3,14,R&B,Laptop,India,34,Retained
+U340,40,Premium,17.8,12,Classical,Mobile,Australia,28,Retained
+U341,58,Free,2.9,24,Hip-Hop,Smart Speaker,USA,39,Churned
+U342,28,Free,9.8,21,Pop,Mobile,India,23,Churned
+U343,36,Premium,7.5,10,Classical,Mobile,UK,42,Retained
+U344,40,Basic,7.4,9,Classical,Mobile,Canada,57,Retained
+U345,39,Free,10.2,23,Indie,Mobile,Canada,51,Churned
+U346,23,Free,2.5,12,Pop,Tablet,India,5,Churned
+U347,18,Free,24.9,15,Classical,Mobile,USA,42,Retained
+U348,35,Premium,15.3,17,Hip-Hop,Smart Speaker,UK,28,Retained
+U349,47,Basic,3.0,20,Electronic,Mobile,UK,19,Churned
+U350,28,Basic,6.6,19,Electronic,Smart Speaker,USA,52,Retained
+U351,22,Basic,5.4,18,R&B,Laptop,India,16,Retained
+U352,60,Free,15.2,18,Electronic,Mobile,Australia,51,Retained
+U353,38,Premium,24.8,18,Rock,Laptop,India,48,Retained
+U354,27,Basic,14.3,11,R&B,Mobile,India,56,Churned
+U355,35,Basic,24.3,19,Rock,Mobile,India,1,Retained
+U356,37,Basic,7.0,18,Classical,Smart Speaker,USA,50,Retained
+U357,32,Free,2.9,22,R&B,Mobile,India,46,Retained
+U358,41,Premium,9.8,17,Bollywood,Mobile,India,25,Retained
+U359,57,Free,13.6,21,Hip-Hop,Laptop,India,43,Retained
+U360,33,Free,16.5,18,Pop,Mobile,India,45,Churned
+U361,50,Free,1.9,17,Classical,Mobile,India,25,Retained
+U362,24,Free,25.3,15,Hip-Hop,Mobile,UK,3,Churned
+U363,24,Free,10.3,20,Rock,Laptop,USA,36,Retained
+U364,23,Basic,10.6,16,Electronic,Mobile,USA,23,Churned
+U365,42,Premium,10.4,16,Classical,Mobile,India,21,Retained
+U366,20,Premium,11.4,18,Classical,Laptop,Canada,12,Retained
+U367,24,Premium,2.1,19,Pop,Mobile,India,48,Retained
+U368,22,Premium,5.8,16,R&B,Mobile,India,17,Retained
+U369,28,Basic,22.4,20,Rock,Laptop,India,37,Retained
+U370,52,Free,14.0,11,Rock,Laptop,India,52,Retained
+U371,53,Basic,4.5,24,Rock,Mobile,USA,33,Retained
+U372,33,Premium,21.5,17,Hip-Hop,Mobile,India,8,Retained
+U373,58,Free,12.8,15,Bollywood,Mobile,USA,50,Retained
+U374,43,Basic,5.2,14,Pop,Mobile,India,28,Retained
+U375,23,Free,8.5,23,Indie,Mobile,India,30,Retained
+U376,33,Basic,17.2,11,Indie,Mobile,India,32,Retained
+U377,31,Basic,5.6,26,Hip-Hop,Laptop,India,30,Retained
+U378,20,Basic,8.9,18,Indie,Smart Speaker,Australia,14,Retained
+U379,47,Free,8.4,16,Bollywood,Laptop,USA,24,Churned
+U380,22,Premium,15.4,15,Hip-Hop,Mobile,Canada,23,Retained
+U381,27,Basic,3.8,22,Pop,Mobile,Australia,49,Churned
+U382,40,Free,14.0,16,Hip-Hop,Mobile,Canada,13,Churned
+U383,34,Premium,13.2,23,Electronic,Mobile,USA,7,Retained
+U384,53,Free,7.0,17,Electronic,Mobile,India,39,Retained
+U385,18,Basic,4.3,16,Electronic,Smart Speaker,India,59,Churned
+U386,32,Free,10.9,13,Hip-Hop,Smart Speaker,USA,46,Retained
+U387,21,Premium,2.8,13,Classical,Laptop,UK,37,Churned
+U388,57,Free,11.3,12,Classical,Laptop,India,39,Retained
+U389,40,Free,4.0,22,Classical,Mobile,USA,55,Churned
+U390,47,Premium,14.7,14,Indie,Mobile,India,8,Retained
+U391,51,Basic,3.4,20,Indie,Tablet,India,58,Retained
+U392,55,Basic,36.5,18,Pop,Mobile,India,24,Retained
+U393,54,Free,4.0,23,Hip-Hop,Mobile,India,1,Retained
+U394,35,Basic,4.6,29,Bollywood,Mobile,Australia,15,Retained
+U395,38,Free,10.4,22,Indie,Mobile,India,60,Churned
+U396,20,Premium,15.6,9,Rock,Mobile,India,21,Retained
+U397,30,Premium,6.3,21,Electronic,Mobile,India,14,Retained
+U398,45,Free,16.7,17,Rock,Mobile,USA,58,Retained
+U399,56,Basic,13.2,12,Pop,Mobile,Canada,25,Retained
+U400,34,Premium,7.2,13,Bollywood,Mobile,USA,52,Retained
+U401,34,Free,0.8,15,Bollywood,Laptop,Canada,19,Churned
+U402,24,Free,11.6,19,R&B,Mobile,USA,24,Retained
+U403,27,Premium,7.8,14,Hip-Hop,Mobile,India,53,Retained
+U404,41,Free,9.5,21,Hip-Hop,Laptop,India,31,Churned
+U405,54,Basic,4.7,15,Indie,Laptop,UK,23,Churned
+U406,23,Basic,10.5,26,Indie,Mobile,India,6,Retained
+U407,33,Basic,18.1,11,Hip-Hop,Mobile,India,20,Churned
+U408,53,Premium,4.8,17,Indie,Mobile,Canada,55,Churned
+U409,31,Premium,5.0,21,Pop,Mobile,USA,24,Retained
+U410,55,Free,7.9,18,Rock,Laptop,India,4,Churned
+U411,46,Basic,20.0,15,Classical,Mobile,USA,39,Retained
+U412,40,Basic,16.9,12,Hip-Hop,Mobile,USA,43,Retained
+U413,52,Premium,12.3,24,Hip-Hop,Laptop,USA,4,Retained
+U414,53,Premium,12.6,13,Electronic,Mobile,USA,50,Retained
+U415,25,Basic,10.1,16,Hip-Hop,Mobile,UK,12,Churned
+U416,30,Premium,5.3,16,Indie,Laptop,UK,30,Retained
+U417,28,Basic,17.7,21,Bollywood,Laptop,USA,36,Retained
+U418,44,Free,5.5,16,Hip-Hop,Laptop,USA,46,Churned
+U419,34,Basic,8.1,10,Rock,Mobile,Canada,54,Retained
+U420,35,Free,9.0,19,Hip-Hop,Mobile,USA,31,Churned
+U421,18,Basic,4.2,18,Indie,Mobile,Australia,58,Churned
+U422,45,Premium,8.2,14,Rock,Mobile,India,2,Churned
+U423,54,Free,5.7,20,Electronic,Mobile,Canada,12,Retained
+U424,53,Free,21.1,24,Electronic,Mobile,USA,58,Retained
+U425,47,Premium,15.1,13,Bollywood,Mobile,USA,31,Retained
+U426,55,Free,4.2,17,Hip-Hop,Laptop,USA,2,Churned
+U427,39,Premium,0.6,26,Rock,Mobile,Canada,5,Churned
+U428,41,Premium,7.3,9,R&B,Laptop,India,51,Retained
+U429,47,Free,21.1,13,R&B,Smart Speaker,India,31,Retained
+U430,55,Free,12.3,18,Hip-Hop,Mobile,Australia,23,Retained
+U431,58,Premium,9.6,14,Classical,Mobile,Australia,47,Retained
+U432,58,Basic,11.9,12,Electronic,Mobile,India,4,Churned
+U433,45,Premium,8.0,16,Rock,Mobile,Australia,55,Retained
+U434,22,Free,9.4,20,Pop,Mobile,USA,1,Churned
+U435,44,Premium,13.7,24,Rock,Mobile,USA,30,Retained
+U436,43,Premium,13.4,15,Bollywood,Mobile,UK,6,Retained
+U437,49,Premium,33.6,22,Bollywood,Mobile,Australia,37,Retained
+U438,44,Basic,8.8,19,Hip-Hop,Laptop,India,42,Retained
+U439,49,Basic,7.4,11,Pop,Mobile,India,6,Retained
+U440,55,Basic,10.4,15,Pop,Laptop,India,14,Retained
+U441,25,Free,17.3,16,Hip-Hop,Tablet,India,24,Retained
+U442,34,Premium,7.4,29,Pop,Laptop,India,27,Retained
+U443,28,Basic,9.2,18,R&B,Mobile,USA,42,Retained
+U444,49,Premium,4.8,18,Classical,Mobile,Canada,41,Churned
+U445,44,Premium,8.4,13,Hip-Hop,Mobile,India,31,Retained
+U446,29,Free,10.3,19,Indie,Mobile,USA,35,Churned
+U447,27,Basic,10.9,15,Rock,Mobile,India,59,Retained
+U448,58,Free,3.7,15,Electronic,Mobile,UK,5,Retained
+U449,52,Basic,14.3,16,Indie,Mobile,Australia,21,Retained
+U450,46,Free,12.8,19,Bollywood,Mobile,India,2,Retained
+U451,23,Basic,22.2,18,Electronic,Laptop,USA,23,Retained
+U452,56,Premium,3.6,19,Indie,Laptop,Canada,5,Churned
+U453,52,Free,10.7,15,Indie,Mobile,UK,6,Churned
+U454,48,Free,4.5,14,Hip-Hop,Mobile,USA,30,Churned
+U455,31,Free,9.0,14,Indie,Mobile,UK,58,Retained
+U456,38,Basic,11.1,16,Rock,Mobile,Canada,44,Retained
+U457,37,Basic,13.4,21,Rock,Laptop,USA,7,Churned
+U458,33,Free,20.7,24,Indie,Laptop,India,33,Retained
+U459,52,Free,6.7,21,Indie,Mobile,India,28,Retained
+U460,37,Premium,2.2,16,Rock,Laptop,USA,28,Retained
+U461,53,Premium,12.4,20,Electronic,Mobile,USA,18,Retained
+U462,29,Premium,11.7,27,Classical,Smart Speaker,UK,52,Retained
+U463,59,Basic,2.0,13,Hip-Hop,Mobile,USA,22,Retained
+U464,36,Basic,13.0,12,Bollywood,Laptop,USA,4,Retained
+U465,46,Basic,10.2,20,Electronic,Mobile,Canada,47,Churned
+U466,46,Basic,9.2,19,Indie,Mobile,India,49,Retained
+U467,53,Free,13.5,17,Bollywood,Mobile,India,25,Retained
+U468,29,Premium,5.8,16,R&B,Mobile,India,40,Retained
+U469,59,Free,10.4,18,Electronic,Mobile,UK,50,Churned
+U470,23,Free,2.8,27,Rock,Laptop,USA,35,Churned
+U471,28,Free,9.5,12,Classical,Mobile,UK,7,Retained
+U472,57,Basic,8.0,11,R&B,Mobile,India,52,Retained
+U473,43,Premium,21.5,12,Hip-Hop,Smart Speaker,India,9,Retained
+U474,40,Basic,21.4,15,Pop,Mobile,India,22,Retained
+U475,46,Premium,13.9,12,R&B,Mobile,India,5,Retained
+U476,55,Free,22.1,23,Electronic,Mobile,USA,7,Retained
+U477,31,Free,17.2,17,Pop,Smart Speaker,USA,46,Retained
+U478,32,Basic,3.3,22,Hip-Hop,Mobile,India,32,Retained
+U479,28,Free,8.8,17,R&B,Mobile,India,17,Retained
+U480,33,Free,3.9,18,Indie,Smart Speaker,Canada,14,Retained
+U481,44,Premium,27.9,20,Bollywood,Mobile,USA,8,Retained
+U482,48,Free,5.6,20,R&B,Smart Speaker,India,50,Retained
+U483,50,Free,1.5,17,Electronic,Mobile,UK,18,Retained
+U484,58,Free,6.5,16,Electronic,Tablet,India,25,Churned
+U485,24,Basic,23.7,18,Pop,Laptop,USA,38,Retained
+U486,58,Basic,3.3,22,Rock,Mobile,USA,16,Retained
+U487,46,Premium,3.3,15,Rock,Mobile,UK,18,Retained
+U488,31,Basic,6.5,21,Rock,Laptop,USA,36,Churned
+U489,52,Basic,11.7,23,Electronic,Mobile,Canada,27,Churned
+U490,24,Basic,0.5,15,Bollywood,Tablet,India,37,Churned
+U491,43,Premium,1.3,24,Indie,Smart Speaker,India,27,Retained
+U492,53,Basic,8.6,27,Pop,Mobile,India,38,Retained
+U493,48,Basic,19.1,19,Indie,Mobile,USA,37,Retained
+U494,44,Free,16.2,17,R&B,Laptop,Canada,2,Retained
+U495,53,Premium,17.0,20,Pop,Tablet,India,12,Retained
+U496,31,Basic,15.8,22,Classical,Smart Speaker,USA,5,Churned
+U497,37,Free,8.8,24,Electronic,Laptop,USA,57,Retained
+U498,31,Basic,15.6,19,Indie,Mobile,India,7,Churned
+U499,42,Basic,14.8,23,Rock,Mobile,USA,43,Retained
+U500,38,Free,7.4,12,Rock,Tablet,India,12,Retained
