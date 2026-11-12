@@ -1,0 +1,121 @@
+support,itemsets
+0.684,frozenset({'churn_status=Retained'})
+0.638,frozenset({'device=Mobile'})
+0.444,frozenset({'country=India'})
+0.428,"frozenset({'device=Mobile', 'churn_status=Retained'})"
+0.396,frozenset({'subscription_plan=Free'})
+0.326,frozenset({'subscription_plan=Basic'})
+0.316,frozenset({'churn_status=Churned'})
+0.308,"frozenset({'churn_status=Retained', 'country=India'})"
+0.278,frozenset({'subscription_plan=Premium'})
+0.278,"frozenset({'device=Mobile', 'country=India'})"
+0.252,frozenset({'country=USA'})
+0.246,"frozenset({'device=Mobile', 'subscription_plan=Free'})"
+0.244,"frozenset({'churn_status=Retained', 'subscription_plan=Free'})"
+0.232,"frozenset({'subscription_plan=Basic', 'churn_status=Retained'})"
+0.21,"frozenset({'device=Mobile', 'churn_status=Churned'})"
+0.208,"frozenset({'churn_status=Retained', 'subscription_plan=Premium'})"
+0.206,"frozenset({'subscription_plan=Basic', 'device=Mobile'})"
+0.188,"frozenset({'country=India', 'subscription_plan=Free'})"
+0.186,"frozenset({'device=Mobile', 'subscription_plan=Premium'})"
+0.184,"frozenset({'device=Mobile', 'churn_status=Retained', 'country=India'})"
+0.176,"frozenset({'country=USA', 'churn_status=Retained'})"
+0.172,frozenset({'device=Laptop'})
+0.164,"frozenset({'country=USA', 'device=Mobile'})"
+0.152,"frozenset({'churn_status=Churned', 'subscription_plan=Free'})"
+0.148,frozenset({'favorite_genre=Hip-Hop'})
+0.146,"frozenset({'device=Mobile', 'churn_status=Retained', 'subscription_plan=Premium'})"
+0.144,frozenset({'favorite_genre=Indie'})
+0.142,"frozenset({'device=Mobile', 'churn_status=Retained', 'subscription_plan=Free'})"
+0.14,"frozenset({'subscription_plan=Basic', 'device=Mobile', 'churn_status=Retained'})"
+0.14,frozenset({'favorite_genre=Rock'})
+0.136,"frozenset({'churn_status=Churned', 'country=India'})"
+0.132,"frozenset({'subscription_plan=Basic', 'country=India'})"
+0.13,frozenset({'favorite_genre=Classical'})
+0.124,"frozenset({'country=India', 'subscription_plan=Premium'})"
+0.124,frozenset({'country=Canada'})
+0.12,frozenset({'favorite_genre=Electronic'})
+0.12,"frozenset({'device=Laptop', 'churn_status=Retained'})"
+0.118,"frozenset({'churn_status=Retained', 'country=India', 'subscription_plan=Free'})"
+0.116,"frozenset({'country=USA', 'device=Mobile', 'churn_status=Retained'})"
+0.114,"frozenset({'device=Mobile', 'country=India', 'subscription_plan=Free'})"
+0.112,frozenset({'device=Smart Speaker'})
+0.112,frozenset({'favorite_genre=Pop'})
+0.106,frozenset({'country=UK'})
+0.106,frozenset({'favorite_genre=R&B'})
+0.104,"frozenset({'churn_status=Retained', 'favorite_genre=Hip-Hop'})"
+0.104,"frozenset({'country=USA', 'subscription_plan=Free'})"
+0.104,"frozenset({'device=Mobile', 'churn_status=Churned', 'subscription_plan=Free'})"
+0.1,frozenset({'favorite_genre=Bollywood'})
+0.098,"frozenset({'churn_status=Retained', 'country=India', 'subscription_plan=Premium'})"
+0.098,"frozenset({'churn_status=Retained', 'favorite_genre=Rock'})"
+0.096,"frozenset({'churn_status=Retained', 'favorite_genre=Classical'})"
+0.094,"frozenset({'subscription_plan=Basic', 'churn_status=Churned'})"
+0.094,"frozenset({'device=Mobile', 'favorite_genre=Indie'})"
+0.094,"frozenset({'device=Mobile', 'churn_status=Churned', 'country=India'})"
+0.092,"frozenset({'subscription_plan=Basic', 'churn_status=Retained', 'country=India'})"
+0.092,"frozenset({'device=Mobile', 'favorite_genre=Hip-Hop'})"
+0.088,"frozenset({'device=Mobile', 'favorite_genre=Rock'})"
+0.086,"frozenset({'subscription_plan=Basic', 'device=Mobile', 'country=India'})"
+0.084,"frozenset({'churn_status=Retained', 'favorite_genre=Indie'})"
+0.084,"frozenset({'device=Mobile', 'favorite_genre=Electronic'})"
+0.084,"frozenset({'subscription_plan=Basic', 'country=USA'})"
+0.082,"frozenset({'churn_status=Retained', 'device=Smart Speaker'})"
+0.082,"frozenset({'churn_status=Retained', 'favorite_genre=Electronic'})"
+0.078,"frozenset({'device=Mobile', 'favorite_genre=Classical'})"
+0.078,"frozenset({'favorite_genre=R&B', 'churn_status=Retained'})"
+0.078,frozenset({'device=Tablet'})
+0.078,"frozenset({'favorite_genre=Pop', 'churn_status=Retained'})"
+0.078,"frozenset({'device=Mobile', 'country=India', 'subscription_plan=Premium'})"
+0.076,"frozenset({'country=USA', 'churn_status=Churned'})"
+0.074,"frozenset({'churn_status=Retained', 'country=Canada'})"
+0.074,"frozenset({'device=Mobile', 'country=Canada'})"
+0.074,"frozenset({'favorite_genre=Indie', 'country=India'})"
+0.074,frozenset({'country=Australia'})
+0.072,"frozenset({'device=Mobile', 'country=UK'})"
+0.072,"frozenset({'favorite_genre=Pop', 'device=Mobile'})"
+0.07,"frozenset({'churn_status=Churned', 'country=India', 'subscription_plan=Free'})"
+0.07,"frozenset({'device=Laptop', 'country=India'})"
+0.07,"frozenset({'churn_status=Churned', 'subscription_plan=Premium'})"
+0.066,"frozenset({'device=Mobile', 'churn_status=Retained', 'favorite_genre=Rock'})"
+0.066,"frozenset({'subscription_plan=Basic', 'device=Mobile', 'churn_status=Churned'})"
+0.066,"frozenset({'favorite_genre=Bollywood', 'device=Mobile'})"
+0.066,"frozenset({'device=Laptop', 'subscription_plan=Free'})"
+0.066,"frozenset({'subscription_plan=Basic', 'device=Laptop'})"
+0.064,"frozenset({'favorite_genre=Indie', 'subscription_plan=Free'})"
+0.064,"frozenset({'device=Mobile', 'churn_status=Retained', 'favorite_genre=Hip-Hop'})"
+0.064,"frozenset({'favorite_genre=Bollywood', 'churn_status=Retained'})"
+0.064,"frozenset({'country=USA', 'subscription_plan=Premium'})"
+0.064,"frozenset({'country=USA', 'device=Mobile', 'subscription_plan=Free'})"
+0.064,"frozenset({'country=USA', 'churn_status=Retained', 'subscription_plan=Free'})"
+0.064,"frozenset({'country=Australia', 'churn_status=Retained'})"
+0.064,"frozenset({'device=Mobile', 'favorite_genre=R&B'})"
+0.064,"frozenset({'favorite_genre=Pop', 'country=India'})"
+0.062,"frozenset({'churn_status=Retained', 'country=UK'})"
+0.06,"frozenset({'subscription_plan=Basic', 'churn_status=Retained', 'country=USA'})"
+0.06,"frozenset({'favorite_genre=Indie', 'churn_status=Churned'})"
+0.06,"frozenset({'favorite_genre=Rock', 'country=India'})"
+0.06,"frozenset({'favorite_genre=Classical', 'country=India'})"
+0.058,"frozenset({'favorite_genre=R&B', 'country=India'})"
+0.056,"frozenset({'device=Mobile', 'churn_status=Retained', 'favorite_genre=Classical'})"
+0.056,"frozenset({'device=Mobile', 'churn_status=Retained', 'favorite_genre=Electronic'})"
+0.054,"frozenset({'device=Smart Speaker', 'country=India'})"
+0.054,"frozenset({'country=USA', 'device=Laptop'})"
+0.054,"frozenset({'device=Laptop', 'churn_status=Retained', 'country=India'})"
+0.054,"frozenset({'churn_status=Retained', 'device=Tablet'})"
+0.052,"frozenset({'country=USA', 'device=Mobile', 'subscription_plan=Premium'})"
+0.052,"frozenset({'country=USA', 'churn_status=Retained', 'subscription_plan=Premium'})"
+0.052,"frozenset({'device=Laptop', 'churn_status=Churned'})"
+0.052,"frozenset({'favorite_genre=Hip-Hop', 'subscription_plan=Free'})"
+0.052,"frozenset({'favorite_genre=Electronic', 'subscription_plan=Free'})"
+0.052,"frozenset({'favorite_genre=Rock', 'subscription_plan=Free'})"
+0.05,"frozenset({'subscription_plan=Basic', 'favorite_genre=Hip-Hop'})"
+0.05,"frozenset({'country=Canada', 'subscription_plan=Free'})"
+0.05,"frozenset({'country=India', 'favorite_genre=Hip-Hop'})"
+0.05,"frozenset({'favorite_genre=Classical', 'subscription_plan=Free'})"
+0.05,"frozenset({'favorite_genre=R&B', 'subscription_plan=Free'})"
+0.05,"frozenset({'country=Australia', 'device=Mobile'})"
+0.05,"frozenset({'churn_status=Churned', 'country=Canada'})"
+0.05,"frozenset({'subscription_plan=Basic', 'churn_status=Retained', 'device=Laptop'})"
+0.05,"frozenset({'favorite_genre=Pop', 'device=Mobile', 'churn_status=Retained'})"
+0.05,"frozenset({'device=Mobile', 'favorite_genre=Indie', 'country=India'})"
